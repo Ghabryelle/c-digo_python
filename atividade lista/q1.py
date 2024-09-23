@@ -12,4 +12,3 @@ for contador in num:
     if contador % 2 == 0:
         num.remove(contador)
 print(num)    
-    
